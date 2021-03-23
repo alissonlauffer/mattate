@@ -8,8 +8,8 @@ local mattata = require('mattata')
 local redis = require('libs.redis')
 
 function save:init()
-    save.commands = mattata.commands(self.info.username):command('save'):command('s').table
-    save.help = '/save - Stores the replied-to message in ' .. self.info.first_name .. '\'s database - of which a randomly-selected, saved message from the said user can be retrieved using /quote. Alias: /s.'
+    save.commands = mattata.commands(self.info.username):command('saveq'):command('s').table
+    save.help = '/saveq - Stores the replied-to message in ' .. self.info.first_name .. '\'s database - of which a randomly-selected, saved message from the said user can be retrieved using /cite. Alias: /s.'
 end
 
 function save.on_message(_, message, _, language)
