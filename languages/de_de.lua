@@ -647,7 +647,7 @@ System:
     },
     ['save'] = {
         ['1'] = 'Dieser Benutzer ist opted out(ausgetreten) von der Datensammlung funktionalität.',
-        ['2'] = 'Dieser Text ist gespeichert in meiner Datei und wird zu der List möglicher Antworten hinzugefügt, wenn /quote benutzt wird als Antwort zu %s%s!'
+        ['2'] = 'Dieser Text ist gespeichert in meiner Datei und wird zu der List möglicher Antworten hinzugefügt, wenn /cite benutzt wird als Antwort zu %s%s!'
     },
     ['sed'] = {
         ['1'] = '%s\n\n<i>%s wollte das nicht sagen!</i>',

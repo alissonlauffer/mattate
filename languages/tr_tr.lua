@@ -611,7 +611,7 @@ Sistem:
     },
     ['save'] = {
         ['1'] = 'Bu kullanıcı, veri saklama işlevini devre dışı bıraktı.',
-        ['2'] = 'Bu mesaj benim veritabanıma kaydedildi ve /quote cevabında kullanıldığında olası yanıtların listesine eklendi. %s!'
+        ['2'] = 'Bu mesaj benim veritabanıma kaydedildi ve /cite cevabında kullanıldığında olası yanıtların listesine eklendi. %s!'
     },
     ['sed'] = {
         ['1'] = '%s\n\n<i>%s Bunu söylemek istememiştim!</i>',

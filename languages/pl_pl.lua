@@ -675,7 +675,7 @@ System:
     },
     ['save'] = {
         ['1'] = 'Ten użytkownik zrezygnował ze zbierania danych na jego temat',
-        ['2'] = 'Wiadomość zapisana w bazie danych i dodana do listy możliwych odpowiedzi gdy /quote jest użyte w odpowiedzi do %s!'
+        ['2'] = 'Wiadomość zapisana w bazie danych i dodana do listy możliwych odpowiedzi gdy /cite jest użyte w odpowiedzi do %s!'
     },
     ['sed'] = {
         ['1'] = '%s\n\n<i>%s nie miał(a) tego na myśli!</i>',

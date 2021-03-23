@@ -611,7 +611,7 @@ Sistema:
     },
     ['save'] = {
         ['1'] = 'Este utilizador desativou a funcionalidade de armazenamento de dados.',
-        ['2'] = 'Esta mensagem foi gravada na minha base de dados, e adicionado à lista de possíveis respostas para quando /quote è usado em resposta a %s!'
+        ['2'] = 'Esta mensagem foi gravada na minha base de dados, e adicionado à lista de possíveis respostas para quando /cite è usado em resposta a %s!'
     },
     ['sed'] = {
         ['1'] = '%s\n\n<i>%s não quis dizer isso!</i>',
