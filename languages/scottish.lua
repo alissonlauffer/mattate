@@ -611,7 +611,7 @@ System:
     },
     ['save'] = {
         ['1'] = 'This usar has opted out of data-storing functionality.',
-        ['2'] = 'That message has been saved in my database, and added tae the list of possible responses for when /quote is used in reply tae %s!'
+        ['2'] = 'That message has been saved in my database, and added tae the list of possible responses for when /cite is used in reply tae %s!'
     },
     ['sed'] = {
         ['1'] = '%s\n\n<i>%s didn\'t mean tae say thes!</i>',
